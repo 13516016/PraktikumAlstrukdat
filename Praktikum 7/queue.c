@@ -69,7 +69,6 @@ void Add (Queue * Q, infotype X){
   }
   Tail(*Q)++;
   InfoTail(*Q)=X;
-
 };
 /* Proses: Menambahkan X pada Q dengan aturan FIFO */
 /* I.S. Q mungkin kosong, tabel penampung elemen Q TIDAK penuh */

@@ -3,8 +3,8 @@
 /* Model Implementasi Versi III dengan circular buffer */
 
 #ifndef queue_H
-#define queue_H
 
+#define queue_H
 #include "boolean.h"
 
 #define Nil 0
